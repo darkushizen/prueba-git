@@ -1,0 +1,1 @@
+editando el archivo principal para hacer un segundo commit de prueba. este archivo se editará solo en la rama principal.
