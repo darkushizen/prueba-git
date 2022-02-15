@@ -1,1 +1,3 @@
 editando el archivo principal para hacer un segundo commit de prueba. este archivo se editará solo en la rama principal.
+
+prueba. he cambiado a esta rama habiendo hecho un cambio en la secundaria "tareas". ahora hare un cambio aqui y hare un merge.
